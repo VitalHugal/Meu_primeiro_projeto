@@ -8,4 +8,3 @@ Volte sempre.
 
 Dê uma olhada no link do projeto:
 
-https://vitalhugal.github.io/projeto-android/
